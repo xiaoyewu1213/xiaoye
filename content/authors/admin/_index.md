@@ -26,7 +26,7 @@ role: DPhil Student in Linguistics
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Oxford
-    url: https://www.ling-phil.ox.ac.uk/
+    url: https://www.ling-phil.ox.ac.uk/people/xiaoye-wu
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
