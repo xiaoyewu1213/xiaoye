@@ -156,7 +156,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Trinity College Graduate Scholarship
-    date: 2023-2025
+    date: ‘2023-2025’
     awarder: Trinity College, University of Oxford
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
