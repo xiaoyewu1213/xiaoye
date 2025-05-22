@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_Xiaoye_Wu (2).pdf
     design:
       css_class: dark
       background:
@@ -25,7 +25,7 @@ sections:
         text_color_light: false
         image:
           # Add your image background to `assets/media/`.
-          filename: bg.jpeg
+          filename: ''
           filters:
             brightness: 1.0
           size: cover
