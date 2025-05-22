@@ -56,11 +56,11 @@ education:
     institution: University of Oxford
     date_start: 2023-10-01
     # date_end: 
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #summary: |
+      
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
   - area: MPhil in Lingusitics, Philology and Phonetics
     institution: University of Oxford
     date_start: 2021-10-01
@@ -144,10 +144,13 @@ skills:
 languages:
   - name: Mandarin
     percent: 100
+  - name: Wu Chinese
+    percent: 100
   - name: English
-    percent: 75
+    percent: 90
   - name: Korean
-    percent: 25
+    percent: 80
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
