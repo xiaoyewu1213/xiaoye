@@ -156,7 +156,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Trinity College Graduate Scholarship
-    date: ‘2023-2025’
+    date: '2023-2025'
     awarder: Trinity College, University of Oxford
   - title: Dean’s Award for Achievement
     date: '2021'
@@ -167,6 +167,6 @@ awards:
 
 ## About Me
 
-Hi! I am a DPhil student in Linguistics at University of Oxford. I am currently working on my DPhil project 'The phonetic documentation of Wuxi Wu Chinese'. 
+Hi! I am a DPhil student in Linguistics at University of Oxford. I am currently working on my DPhil project 'The phonetic documentation of Wuxi Wu Chinese'.
 
 ---
