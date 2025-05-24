@@ -156,13 +156,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Trinity College Graduate Scholarship
-    date: '2023-2025'
+    date: '2023'
     awarder: Trinity College, University of Oxford
   - title: Dean’s Award for Achievement
     date: '2021'
     awarder: Department of Humanities, University of Manchester
   - title: Outstanding Scholarship
-    date: '2018-2019'
+    date: '2018'
     awarder: School of Foreign Languages, East China University of Science and Technology
 
 ## About Me
